@@ -1,3 +1,6 @@
+# pickled files
+*.pt
+
 # JetBrains PyCharm IDE
 .idea/
 
